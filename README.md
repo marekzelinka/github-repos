@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Gihtub Repos</h3>
   <p>
-    A webapp that lists the Github repositories of a user of your choice!
+    A web app that lists the Github repositories of a user of your choice!
     <br />
-    <a href="https://classroom-statistics.vercel.app/"><strong>Website »</strong></a>
+    <a href="http://github-repos.mzelinka17.vercel.app/"><strong>Website »</strong></a>
   </p>
 </div>
 
